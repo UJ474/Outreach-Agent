@@ -181,8 +181,3 @@ The orchestrator. Reads `leads.csv`, calls `scrape()` → `write_email()` → `s
 - [ ] CLI flags: `--dry-run` to preview emails without sending
 - [ ] Rate limiting dashboard
 
----
-
-## License
-
-MIT
