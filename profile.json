@@ -1,0 +1,30 @@
+{
+  "name": "Utkarsh Jain",
+  "one_liner": "B.Tech Data Science student at Newton School of Technology, AI Generalist intern at Newton AI",
+  "email": "<fill>",
+  "github": "https://github.com/UJ474",
+  "linkedin": "<fill>",
+  "portfolio": "",
+  "goals": "<fill: e.g. AI/agents or full-stack internship, contributing to real products>",
+  "projects": [
+    {
+      "name": "Newton OOH Agent",
+      "url": "https://github.com/UJ474/Newton_OOH_Agent",
+      "summary": "<1 line, factual: multi-agent AI media planning platform built during the Newton AI internship>",
+      "tags": ["agents", "ai", "llm", "automation", "media", "python"]
+    },
+    {
+      "name": "Hawai",
+      "url": "<fill>",
+      "summary": "<1 line: full-stack airline booking project>",
+      "tags": ["full-stack", "web", "booking"]
+    },
+    {
+      "name": "Outreach Agent",
+      "url": "https://github.com/UJ474/Outreach-Agent",
+      "summary": "<1 line: scrapes sites, drafts personalized cold emails with an LLM>",
+      "tags": ["agents", "scraping", "python", "llm"]
+    }
+  ],
+  "other_proof": ["Competitive programming; CP Club committee member, mentors students in DSA"]
+}

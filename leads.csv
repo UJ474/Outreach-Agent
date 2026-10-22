@@ -1,0 +1,4 @@
+company,website,person_name,person_role,email,linkedin,category,goal,hook_notes,extra_urls,event_name,event_phase
+Acme AI,https://acme.ai,Jane Roe,CTO,jane@acme.ai,,openings,"AI agents internship","Saw their agent-eval launch post",https://acme.ai/blog/evals,,
+Beta Tools,https://beta.dev,Sam Lee,Engineer,,https://linkedin.com/in/samlee,contribute,"contribute to their CLI","Their CLI lacks a --json flag",https://github.com/beta/cli,,
+Gamma Conf,https://gamma.io,Priya N,Speaker,priya@gamma.io,,event,"learn from her work on RAG","Her talk on retrieval caching",,Gamma Summit,post_24h
